@@ -21,7 +21,7 @@ var (
 )
 
 func init() {
-  globalClock.Start()
+	globalClock.Start()
 }
 
 // A Clock represents a periodic ticker
